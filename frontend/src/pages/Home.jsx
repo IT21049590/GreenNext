@@ -136,62 +136,7 @@ const Home = () => {
           </div>
         </section>
 
-        <section id="about" className="about section">
-          <div className="container">
-            <div className="row position-relative">
-              <div
-                className="col-lg-7 about-img"
-                data-aos="zoom-out"
-                data-aos-delay="200"
-              >
-                <img src="assets/img/about.jpg" />
-              </div>
-
-              <div className="col-lg-7" data-aos="fade-up" data-aos-delay="100">
-                <h2 className="inner-title">Consequatur eius et magnam</h2>
-                <div className="our-story">
-                  <h4>Est 2010</h4>
-                  <h3>Our Story</h3>
-                  <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book. It has survived not only five centuries,
-                    but also the leap into electronic typesetting, remaining
-                    essentially unchanged.
-                  </p>
-                  <ul>
-                    <li>
-                      <i className="bi bi-check-circle"></i>{" "}
-                      <span>Ullamco laboris nisi ut aliquip ex ea commo</span>
-                    </li>
-                    <li>
-                      <i className="bi bi-check-circle"></i>{" "}
-                      <span>Duis aute irure dolor in reprehenderit in</span>
-                    </li>
-                    <li>
-                      <i className="bi bi-check-circle"></i>{" "}
-                      <span>Ullamco laboris nisi ut aliquip ex ea</span>
-                    </li>
-                  </ul>
-                  <p>
-                    Vitae autem velit excepturi fugit. Animi ad non. Eligendi et
-                    non nesciunt suscipit repellendus porro in quo eveniet.
-                    Molestias in maxime doloremque.
-                  </p>
-
-                  <div className="watch-video d-flex align-items-center position-relative">
-                    <i className="bi bi-hand-index"></i>
-                    <a href="/about" className="glightbox stretched-link">
-                      About Us
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+        
 
         <section id="services" className="services section light-background">
           <div className="container">
