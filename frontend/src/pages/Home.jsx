@@ -69,44 +69,55 @@ const Home = () => {
             data-bs-interval="5000"
           >
             <div class={`carousel-item ${current === 1 ? "active" : ""}`}>
-              <img src="assets/img/hero-carousel/hero-carousel-1.jpg" alt="" />
+              <img src="assets/img/hero-carousel/solar-panel.jpg" alt="" />
               <div class="container">
-                <h2>Lorem Ipsum is simply dummy 1</h2>
+                <h2>Power Your Future with Solar Energy</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                  Harness the limitless power of the sun with cutting-edge solar panel solutions.
+                  Reduce energy costs, lower your carbon footprint, and enjoy sustainable,
+                  renewable energy for your home or business. Join the green revolution today🌞!
                 </p>
               </div>
             </div>
 
             <div class={`carousel-item ${current === 2 ? "active" : ""}`}>
-              <img src="assets/img/hero-carousel/hero-carousel-2.jpg" alt="" />
+              <img src="assets/img/hero-carousel/Solar.jpg" alt="" />
               <div class="container">
-                <h2>Lorem Ipsum is simply dummy 2</h2>
+                <h2>Which Solar Solution is Right for You?</h2>
                 <p>
-                  Nam libero tempore, cum soluta nobis est eligendi optio cumque
-                  nihil impedit quo minus id quod maxime placeat facere
-                  possimus, omnis voluptas assumenda est, omnis dolor
-                  repellendus. Temporibus autem quibusdam et aut officiis
-                  debitis aut.
+                  Choosing the right solar solution depends on your energy needs, property type, and budget.
+                  Whether you’re looking for a small-scale residential setup or a large commercial installation, our team is here to help you assess your energy consumption and recommend the best solar system for your specific requirements. From grid-tied systems to off-grid options, we provide tailored solutions that maximize efficiency, minimize costs, and ensure long-term reliability.
+
                 </p>
+
               </div>
             </div>
 
             <div class={`carousel-item ${current === 3 ? "active" : ""}`}>
-              <img src="assets/img/hero-carousel/hero-carousel-3.jpg" alt="" />
+              <img src="assets/img/hero-carousel/solar-panel2.jpg" alt="" />
               <div class="container">
-                <h2>Lorem Ipsum is simply dummy 3</h2>
+                <h2>Smart Solar Battery Storage</h2>
                 <p>
-                  Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
-                  quia voluptas sit aspernatur aut odit aut fugit, sed quia
-                  consequuntur magni dolores eos qui ratione voluptatem sequi
-                  nesciunt omnis iste natus error sit voluptatem accusantium.
+                  Store excess solar energy with advanced battery solutions. Ensure power availability
+                  even during the night or cloudy days. Maximize energy efficiency and savings!
                 </p>
               </div>
             </div>
+
+            <div class={`carousel-item ${current === 4 ? "active" : ""}`}>
+              <img src="assets/img/hero-carousel/solar5.jpg" alt="" />
+              <div class="container">
+                <h2>Smart Solar Battery Storage</h2>
+                <p>
+                  Store excess solar energy with advanced battery solutions. Ensure power availability
+                  even during the night or cloudy days. Maximize energy efficiency and savings!
+                </p>
+              </div>
+            </div>
+
+
+
+
             <a
               class="carousel-control-prev"
               href="#hero-carousel"
@@ -136,7 +147,7 @@ const Home = () => {
           </div>
         </section>
 
-        
+
 
         <section id="services" className="services section light-background">
           <div className="container">

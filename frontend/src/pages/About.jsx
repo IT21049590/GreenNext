@@ -49,20 +49,14 @@ const About = () => {
               </div>
 
               <div className="col-lg-7" data-aos="fade-up" data-aos-delay="100">
-                <h2 className="inner-title">Consequatur eius et magnam</h2>
+                <h2 className="inner-title">Who We Are – Your Trusted Solar Partner</h2>
                 <div className="our-story">
-                  <h4>Est 2010</h4>
-                  <h3>Our Story</h3>
+                  <h4></h4>
+                  <h3></h3>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book. It has survived not only five centuries,
-                    but also the leap into electronic typesetting, remaining
-                    essentially unchanged.
+                  We are a passionate team dedicated to delivering smart, sustainable solar energy solutions for homes, businesses, and industries. With a focus on innovation, quality, and customer satisfaction, we provide reliable solar products and services that empower communities and protect the planet. Join us in creating a brighter, greener future—powered by the sun.
                   </p>
-                  <ul>
+                  {/* <ul>
                     <li>
                       <i className="bi bi-check-circle"></i>{" "}
                       <span>Ullamco laboris nisi ut aliquip ex ea commo</span>
@@ -80,7 +74,7 @@ const About = () => {
                     Vitae autem velit excepturi fugit. Animi ad non. Eligendi et
                     non nesciunt suscipit repellendus porro in quo eveniet.
                     Molestias in maxime doloremque.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </div>

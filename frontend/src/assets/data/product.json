@@ -1,65 +1,62 @@
 [
   {
     "id": 1,
-    "thumbnail": "/assets/img/masonry-portfolio/masonry-portfolio-1.jpg",
-    "title": "Product Title 1",
-    "Description_1": "Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum",
-    "Category": "Category 1",
-    "ModelNo": "Model number 1",
-    "Brand": "Branding",
-    "Main_Description": "Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum",
+    "thumbnail": "/assets/img/masonry-portfolio/solar-type1.jpg",
+    "title": "Solar Clean Machine ",
+    "Description_1": "High-Efficiency Solar Panel Cleaning Machine. Our solar panel cleaning machine is specifically engineered for challenging terrains like deserts, hilly regions, and large-scale photovoltaic power stations. It features a lightweight yet powerful brush head that ensures precise contact and strong cleaning performance without damaging the panel surface. The system utilizes a water-saving mechanism with high atomization efficiency, significantly reducing water usage while maintaining excellent cleaning quality. Designed for high productivity, a single operator can clean between 0.5 to 0.8MW of solar panels per day. With robust construction and easy operation, it’s an ideal solution for maintaining optimal energy output and prolonging the lifespan of solar installations.",
+    "Category": "Solar Clean Machine",
+    "ModelNo": "B12 Solar Clean Machine",
+    "Brand": "B12 Solar Clean Machine Series",
+    "Main_Description": " Designed for use in deserts, hills, and large photovoltaic power stations, this solar cleaning machine features a lightweight brush head with precise attachment and powerful cleaning performance. It uses minimal water with strong atomization for efficient dust removal. Each unit enables a single operator to clean 0.5 to 0.8MW of solar panels per day, making it a smart solution for maintaining peak solar efficiency.",
     "images": [
         {
             "img_ID": "1",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-7.jpg"
+            "url": "/assets/img/masonry-portfolio/clean.png"
         },
         {
             "img_ID": "2",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-8.jpg"
+            "url": "/assets/img/masonry-portfolio/clean2.png"
         },
         {
             "img_ID": "3",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-9.jpg"
+            "url": "/assets/img/masonry-portfolio/clean3.png"
         }
     ]
   },
   {
     "id": 2,
-    "thumbnail": "/assets/img/masonry-portfolio/masonry-portfolio-1.jpg",
-    "title": "Product Title 2",
-    "Description_1": "Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum 2",
-    "Category": "Category 2",
-    "ModelNo": "Model number 2",
+    "thumbnail": "/assets/img/masonry-portfolio/solar-type3.jpg",
+    "title": "Types Of Solar Panels",
+    "Description_1": "These solar panels are the most prominent and well-known panels used today in industry today and widely used in industries, commercial and residential installations.",
+    "Category": "Category 1",
+    "ModelNo": "Model 02",
     "Brand": "Branding",
-    "Main_Description": "Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum",
+    "Main_Description": "Monocrystalline come in PERC Technology which is Passivated Emitter and Rear Cell. PERC is the latest technique which increases its efficiency in various ways. The PERC helps in absorbing the sunlight from the frontal area and the rear surface gets the reflected sunlight.Polycrystalline or Multicrystalline solar panels are solar panels that consist of several crystals of silicon in a single PV cell.They are cheaper than monocrystalline and which makes them highly usable in various application like  street lights, traffic lights, gardens, farms etc",
     "images": [
         {
             "img_ID": "1",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-7.jpg"
+            "url": "/assets/img/masonry-portfolio/img1.jpg"
         },
         {
             "img_ID": "2",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-8.jpg"
-        },
-        {
-            "img_ID": "3",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-9.jpg"
+            "url": "/assets/img/masonry-portfolio/img2.jpg"
         }
+       
     ]
   },
   {
     "id": 3,
-    "thumbnail": "/assets/img/masonry-portfolio/masonry-portfolio-1.jpg",
-    "title": "Product Title ",
-    "Description_1": "Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum 3",
-    "Category": "Category 3",
-    "ModelNo": "Model number 3",
+    "thumbnail": "/assets/img/masonry-portfolio/battery1.jpg",
+    "title": "48V Lithium Ion Batteries ",
+    "Description_1": "Best 10kw 200ah lithium deep cycle solar battery backup system for home." ,
+    "Category": "Category 2",
+    "ModelNo": "51.2v 200Ah Lifepo4 Battery",
     "Brand": "Branding",
-    "Main_Description": "Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum",
+    "Main_Description": "The regular model has a charge and discharge rate of 0.5C, which means that the battery can be fully charged or discharged in 2 hours. If you need a battery with a faster charge/discharge rate, we can also customize it to meet your needs.",
     "images": [
         {
             "img_ID": "1",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-7.jpg"
+            "url": "/assets/img/masonry-portfolio/batteryimg1.jpg"
         },
         {
             "img_ID": "2",
@@ -73,45 +70,21 @@
   },
   {
     "id": 4,
-    "thumbnail": "/assets/img/masonry-portfolio/masonry-portfolio-1.jpg",
-    "title": "Product Title 4",
-    "Description_1": "Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum 4",
-    "Category": "Category 4",
-    "ModelNo": "Model number 4",
-    "Brand": "Branding",
-    "Main_Description": "Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum",
+    "thumbnail": "/assets/img/masonry-portfolio/battery2.jpg",
+    "title": "LV Energy Storage Battery",
+    "Description_1": "The LV Energy Storage Battery is a low-voltage solution designed for reliable solar energy storage. It ensures stable performance, high safety with built-in BMS, and seamless integration with solar systems. Perfect for residential and small commercial use, it delivers efficient energy backup and long-lasting durability.",
+    "Category": "Category 2",
+    "ModelNo": "ET-51.2V100/200/280/314Ah-LV",
+    "Brand": "LV Rack Mount",
+    "Main_Description": " Powerbox offers flexible energy storage options with capacities ranging from 5.12kWh to 16.08kWh, making it ideal for various power needs. Designed with high-quality pack types, it delivers an exceptional lifespan of over 11,000 cycles and comes with a 5-year warranty for peace of mind. Supporting parallel connections of up to 15 units, Powerbox ensures scalable energy solutions. Its advanced Battery Management System (BMS) is compatible with most inverter brands, and OEM/ODM support allows for customized integration to meet specific requirements.",
     "images": [
         {
             "img_ID": "1",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-7.jpg"
+            "url": "/assets/img/masonry-portfolio/battery3.jpg"
         },
         {
             "img_ID": "2",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-8.jpg"
-        },
-        {
-            "img_ID": "3",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-9.jpg"
-        }
-    ]
-  },
-  {
-    "id": 5,
-    "thumbnail": "/assets/img/masonry-portfolio/masonry-portfolio-1.jpg",
-    "title": "Product Title 5",
-    "Description_1": "Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum5",
-    "Category": "Category 1",
-    "ModelNo": "Model number 5",
-    "Brand": "Branding",
-    "Main_Description": "Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsumLorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum, dolor sit Lorem ipsum",
-    "images": [
-        {
-            "img_ID": "1",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-7.jpg"
-        },
-        {
-            "img_ID": "2",
-            "url": "/assets/img/masonry-portfolio/masonry-portfolio-8.jpg"
+            "url": "/assets/img/masonry-portfolio/batteryimg.jpg"
         },
         {
             "img_ID": "3",
