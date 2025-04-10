@@ -39,14 +39,14 @@ const Header = () => {
                   <span>Products</span>{" "}
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link
                   to="/services"
                   className={location.pathname === "/services" ? "active" : ""}
                 >
                   Services
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <Link
                   to="/about"
@@ -67,7 +67,7 @@ const Header = () => {
             <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
           </nav>
 
-          <div className="header-social-links">
+          {/* <div className="header-social-links">
             <a href="#" className="facebook">
               <i className="bi bi-facebook"></i>
             </a>
@@ -75,7 +75,7 @@ const Header = () => {
             <a href="#" className="linkedin">
               <i className="bi bi-linkedin"></i>
             </a>
-          </div>
+          </div> */}
         </div>
       </header>
     </>

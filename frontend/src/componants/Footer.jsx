@@ -21,7 +21,7 @@ const Footer = () => {
                   <strong>Email:</strong> <span>info@example.com</span>
                 </p>
               </div>
-              <div className="social-links d-flex mt-4">
+              {/* <div className="social-links d-flex mt-4">
                 <a href="">
                   <i className="bi bi-facebook"></i>
                 </a>
@@ -29,10 +29,10 @@ const Footer = () => {
                 <a href="">
                   <i className="bi bi-linkedin"></i>
                 </a>
-              </div>
+              </div> */}
             </div>
 
-            <div className="col-lg-2 col-md-3 footer-links">
+            {/* <div className="col-lg-2 col-md-3 footer-links">
               <h4>Useful Links</h4>
               <ul>
                 <li>
@@ -72,7 +72,7 @@ const Footer = () => {
                   <Link to="/products">Category 5</Link>
                 </li>
               </ul>
-            </div>
+            </div> */}
 
             <div className="col-lg-4 col-md-12 footer-newsletter">
               <h4>Our Newsletter</h4>

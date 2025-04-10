@@ -169,7 +169,7 @@ const About = () => {
           </div>
         </section>
 
-        <section id="clients" className="clients section">
+        {/* <section id="clients" className="clients section">
           <div className="container section-title" data-aos="fade-up">
             <h2>Brands</h2>
             <p>
@@ -187,9 +187,9 @@ const About = () => {
               ))}
             </div>
           </div>
-        </section>
+        </section> */}
 
-        <section id="testimonials" class="testimonials section">
+        {/* <section id="testimonials" class="testimonials section">
         <div className="container section-title" data-aos="fade-up">
             <h2>Testimonials</h2>
             <p>
@@ -319,7 +319,7 @@ const About = () => {
 
             </div>
           </div>
-        </section>
+        </section> */}
       </main>
     </>
   );
