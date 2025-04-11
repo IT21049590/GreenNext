@@ -101,7 +101,8 @@ const Contact = () => {
                     <i className="bi bi-geo-alt flex-shrink-0"></i>
                     <div>
                       <h4>Location:</h4>
-                      <p>A108 Adam Street, New York, NY 535022</p>
+                      <p>44 Sherwin Avenue, Castle Hill NSW</p>
+                      <p>2154 Australia</p>
                     </div>
                   </div>
 
@@ -109,7 +110,7 @@ const Contact = () => {
                     <i className="bi bi-envelope flex-shrink-0"></i>
                     <div>
                       <h4>Email:</h4>
-                      <p>info@example.com</p>
+                      <p>ranjith@greennext.co</p>
                     </div>
                   </div>
 
@@ -117,7 +118,7 @@ const Contact = () => {
                     <i className="bi bi-phone flex-shrink-0"></i>
                     <div>
                       <h4>Call:</h4>
-                      <p>+1 5589 55488 55</p>
+                      <p>+61 0422 263 346</p>
                     </div>
                   </div>
                 </div>

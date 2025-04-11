@@ -12,13 +12,13 @@ const Footer = () => {
                 <span style={{ color: "#1bbd36" }}>.</span>
               </a>
               <div className="footer-contact pt-3">
-                <p>A108 Adam Street</p>
-                <p>New York, NY 535022</p>
+                <p>44 Sherwin Avenue, Castle Hill NSW</p>
+                <p>2154 Australia</p>
                 <p className="mt-3">
-                  <strong>Phone:</strong> <span>+1 5589 55488 55</span>
+                  <strong>Phone:</strong> <span>+61 0422 263 346</span>
                 </p>
                 <p>
-                  <strong>Email:</strong> <span>info@example.com</span>
+                  <strong>Email:</strong> <span>ranjith@greennext.co</span>
                 </p>
               </div>
               {/* <div className="social-links d-flex mt-4">
