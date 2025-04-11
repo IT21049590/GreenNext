@@ -287,7 +287,7 @@ const Home = () => {
                     <i className="bi bi-activity"></i>
                   </div>
                   <a
-                    href="blogs\Blue Carbon.pdf"
+                    href="/blogs/Blue-Carbon.pdf"
                     className="stretched-link"
                     download
                   >
@@ -320,7 +320,7 @@ const Home = () => {
                     <i className="bi bi-broadcast"></i>
                   </div>
                   <a
-                    href="blogs\blue carbon pannel.pdf"
+                    href="/blogs/blue-carbon-pannel.pdf"
                     className="stretched-link"
                     download
                   >
@@ -353,7 +353,7 @@ const Home = () => {
                     <i className="bi bi-easel"></i>
                   </div>
                   <a
-                    href="blogs\Solar pump box.pdf"
+                    href="/blogs/Solar-pump-box.pdf"
                     className="stretched-link"
                     download
                   >
