@@ -60,7 +60,11 @@ const Home = () => {
   return (
     <>
       <main className="main">
-        <section id="hero" class="hero section dark-background">
+        <section
+          id="hero"
+          className="hero section white-background"
+          style={{ padding: "0 100px", maxHeight: "800px", margin: "0 auto" }}
+        >
           <div
             id="hero-carousel"
             class="carousel slide carousel-fade"
@@ -68,7 +72,7 @@ const Home = () => {
             data-bs-interval="5000"
           >
             <div class={`carousel-item ${current === 1 ? "active" : ""}`}>
-              <img src="assets/img/hero-carousel/box1.png" alt="" />
+              <img src="assets/img/hero-carousel/s4.jpeg" alt="" />
               <div class="container">
                 <h2>Power Your Future with Solar Energy</h2>
                 <p>
