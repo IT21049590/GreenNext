@@ -81,7 +81,7 @@ const Contact = () => {
           <div className="mb-5">
             <iframe
               style={{ width: "100%", height: "400px" }}
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126743.58638744405!2d79.7738030325544!3d6.922001981332362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae253d10f7a7003%3A0x320b2e4d32d3838d!2sColombo!5e0!3m2!1sen!2slk!4v1739630454524!5m2!1sen!2slk"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3318.0833716873854!2d150.9966765!3d-33.7326602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12a19f627a9e13%3A0x8489dd6574eda605!2s44%20Sherwin%20Ave%2C%20Castle%20Hill%20NSW%202154%2C%20Australia!5e0!3m2!1sen!2slk!4v1744390521929!5m2!1sen!2slk"
               frameBorder="0"
               allowFullScreen=""
             ></iframe>
