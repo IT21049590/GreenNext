@@ -183,7 +183,7 @@ const Home = () => {
                     currentCategory === "Category 1" ? "filter-active" : ""
                   }
                 >
-                  Category 1
+                  Solar
                 </li>
                 <li
                   onClick={() => categoryClicked("Category 2")}
@@ -191,9 +191,9 @@ const Home = () => {
                     currentCategory === "Category 2" ? "filter-active" : ""
                   }
                 >
-                  Category 2
+                  Batteries
                 </li>
-                <li
+                {/* <li
                   onClick={() => categoryClicked("Category 3")}
                   className={
                     currentCategory === "Category 3" ? "filter-active" : ""
@@ -208,7 +208,7 @@ const Home = () => {
                   }
                 >
                   Category 4
-                </li>
+                </li> */}
               </ul>
 
               <div
